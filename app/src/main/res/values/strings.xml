@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejer12RepasoHilosAndroid</string>
+    <string name="labelNumerosOrdenar">Números a Ordenar</string>
+    <string name="labelNumerosOrdenados">Ordenados</string>
+    <string name="labelBtOrdenar">Ordenar</string>
+    <string name="labelBtCancelar">Cancelar</string>
+    <string name="enEspera">En Espera</string>
+    <string name="ordenando">Ordenando...</string>
+    <string name="ordenado">Ya ordenado</string>
+    <string name="cancelado">Cancelado!!!</string>
+</resources>
